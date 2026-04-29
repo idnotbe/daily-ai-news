@@ -2,11 +2,13 @@
 
 AX 컨설턴트를 위한 일일 AI 뉴스 다이제스트. 자동 갱신.
 
-**총 누적**: 27건 | **최신 업데이트**: 2026-04-29 20:23 UTC
+**총 누적**: 29건 | **최신 업데이트**: 2026-04-29 21:58 UTC
 
 ## 최근 10일
 
 ### 2026-04-29
+- #29 [An Interview with OpenAI CEO Sam Altman and AWS CEO Matt Garman About Bedrock Managed Agents](digests/2026-04-29/2026-04-29T2158Z.md) — openai, aws-bedrock, multi-cloud, microsoft-openai, managed-agents
+- #28 [Google DeepMind announces Decoupled DiLoCo: self-healing distributed AI training architecture](digests/2026-04-29/2026-04-29T2158Z.md) — decoupled-diloco, distributed-training, fault-tolerance, google-deepmind, large-model-training
 - #27 ['연봉 상한까지 없앤다'…靑, 'AI 전문가 공무원' 양성한다](digests/2026-04-29/2026-04-29T2023Z.md) — ai-government, public-sector-ai, ai-talent, civil-servant, korea-policy
 - #26 [알파고 10주년, 구글 '에이전틱AI' 사활…韓 기업 '협력 돈 될까' 눈치게임(종합)](digests/2026-04-29/2026-04-29T2023Z.md) — agentic-ai, google-deepmind, gemini, korea-partnership, robotics
 - #25 [앤트로픽, '클로드 코드' 비용 추청치 두배로 올려…사용량 기반 요금제 예고](digests/2026-04-29/2026-04-29T2023Z.md) — claude-code, anthropic, usage-based-pricing, ai-developer-tools, subscription

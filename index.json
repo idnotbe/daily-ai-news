@@ -403,5 +403,35 @@
       "korea-policy"
     ],
     "content_hash": "ddc7eddd66a5"
+  },
+  {
+    "index": 28,
+    "title": "Google DeepMind announces Decoupled DiLoCo: self-healing distributed AI training architecture",
+    "time": "2026-04-28T09:00:00Z",
+    "url": "https://x.com/GoogleDeepMind/status/2047330984983400793",
+    "source": "@GoogleDeepMind (X)",
+    "keywords": [
+      "decoupled-diloco",
+      "distributed-training",
+      "fault-tolerance",
+      "google-deepmind",
+      "large-model-training"
+    ],
+    "content_hash": "b7daa0f1597e"
+  },
+  {
+    "index": 29,
+    "title": "An Interview with OpenAI CEO Sam Altman and AWS CEO Matt Garman About Bedrock Managed Agents",
+    "time": "2026-04-29T00:00:00Z",
+    "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
+    "source": "Stratechery",
+    "keywords": [
+      "openai",
+      "aws-bedrock",
+      "multi-cloud",
+      "microsoft-openai",
+      "managed-agents"
+    ],
+    "content_hash": "8494e2cc0a97"
   }
 ]
