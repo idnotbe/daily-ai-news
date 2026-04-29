@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "index": 1,
+    "title": "OpenAI–Microsoft partnership restructured to end Azure exclusivity; OpenAI models, Codex, and Managed Agents now on AWS",
+    "time": "2026-04-28T12:00:00Z",
+    "url": "https://openai.com/index/next-phase-of-microsoft-partnership/",
+    "source": "OpenAI Official",
+    "keywords": ["openai", "microsoft", "multi-cloud", "aws", "azure-exclusivity"],
+    "content_hash": "622a6d001466"
+  },
+  {
+    "index": 2,
+    "title": "Federal judge stays enforcement of Colorado's first-in-nation AI bias law ahead of June 30 deadline",
+    "time": "2026-04-28T20:00:00Z",
+    "url": "https://www.coloradopolitics.com/2026/04/28/colorados-unprecedented-ai-law-cant-be-enforced-yet-judge-rules/",
+    "source": "Colorado Politics (AI Weekly)",
+    "keywords": ["ai-regulation", "bias-law", "colorado", "enforcement-stay", "ai-governance"],
+    "content_hash": "bb269e56de53"
+  },
+  {
+    "index": 3,
+    "title": "Anthropic doubles Claude Code daily cost estimate ($6 → $13/dev/day) and Opus 4.7 new tokenizer adds 12–27% cost on same inputs",
+    "time": "2026-04-29T08:00:00Z",
+    "url": "https://openrouter.ai/announcements/opus-47-tokenizer-analysis",
+    "source": "OpenRouter (tokenizer analysis) + Yahoo Finance (Claude Code cost)",
+    "keywords": ["anthropic", "claude-code", "cost", "tokenizer", "enterprise-budget"],
+    "content_hash": "3b691a8b82bd"
+  },
+  {
+    "index": 4,
+    "title": "DeepSeek cuts V4-Pro prices by 75% and input cache hit costs by 90%",
+    "time": "2026-04-28T09:00:00Z",
+    "url": "https://thenextweb.com/news/deepseek-v4-pro-price-cut-75-percent",
+    "source": "The Next Web (TLDR AI)",
+    "keywords": ["deepseek", "price-cut", "vendor-selection", "geopolitics", "cost-optimization"],
+    "content_hash": "f3264a9feac2"
+  },
+  {
+    "index": 5,
+    "title": "OpenAI reportedly misses key revenue and user targets, raising doubts about IPO timeline and compute commitments",
+    "time": "2026-04-28T12:00:00Z",
+    "url": "https://www.cnbc.com/2026/04/28/openai-reportedly-missed-revenue-targets-shares-of-oracle-and-these-chip-stocks-are-falling.html",
+    "source": "CNBC (corroborating WSJ reporting)",
+    "keywords": ["openai", "revenue-miss", "ipo", "compute-spending", "vendor-risk"],
+    "content_hash": "2f155870481d"
+  }
+]
