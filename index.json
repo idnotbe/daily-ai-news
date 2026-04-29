@@ -43,5 +43,50 @@
     "source": "CNBC (corroborating WSJ reporting)",
     "keywords": ["openai", "revenue-miss", "ipo", "compute-spending", "vendor-risk"],
     "content_hash": "2f155870481d"
+  },
+  {
+    "index": 6,
+    "title": "OpenAI Models, Codex, and Managed Agents Come to AWS",
+    "time": "2026-04-28T00:00:00Z",
+    "url": "https://openai.com/index/openai-on-aws/",
+    "source": "OpenAI Official",
+    "keywords": ["openai-aws", "amazon-bedrock", "codex", "managed-agents", "cloud-partnership"],
+    "content_hash": "5add86c312ac"
+  },
+  {
+    "index": 7,
+    "title": "GPT-5.5 Official Release",
+    "time": "2026-04-28T00:00:00Z",
+    "url": "https://openai.com/index/introducing-gpt-5-5/",
+    "source": "OpenAI Official (via Ben's Bites)",
+    "keywords": ["gpt-5.5", "openai", "llm-pricing", "token-efficiency", "model-release"],
+    "content_hash": "8410bcca881e"
+  },
+  {
+    "index": 8,
+    "title": "Google Signs Classified AI Deal with Pentagon Amid Employee Opposition",
+    "time": "2026-04-28T00:00:00Z",
+    "url": "https://www.theinformation.com/articles/google-signs-classified-ai-deal-pentagon-amid-employee-opposition",
+    "source": "The Information (via Horizon Daily)",
+    "keywords": ["defense-ai", "google", "pentagon", "ai-ethics", "enterprise-governance"],
+    "content_hash": "eee04bd70db0"
+  },
+  {
+    "index": 9,
+    "title": "Anthropic Postmortem: Claude Quality Decline Caused by Thinking Mode and System Prompt Changes",
+    "time": "2026-04-28T00:00:00Z",
+    "url": "https://www.anthropic.com/engineering/april-23-postmortem/",
+    "source": "Anthropic Official (via Ben's Bites)",
+    "keywords": ["claude", "postmortem", "thinking-mode", "system-prompt", "response-quality"],
+    "content_hash": "e0a8dcf53571"
+  },
+  {
+    "index": 10,
+    "title": "Google DeepMind Announces Strategic Partnership with the Republic of Korea",
+    "time": "2026-04-27T00:00:00Z",
+    "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+    "source": "Google DeepMind Official",
+    "keywords": ["google-deepmind", "ai-campus", "alphafold", "ai-safety", "k-moonshot"],
+    "content_hash": "e46ca08a1fa6"
   }
 ]
