@@ -328,5 +328,80 @@
       "supply-chain"
     ],
     "content_hash": "5a1264db6de7"
+  },
+  {
+    "index": 23,
+    "title": "Microsoft Cloud and AI Strength Fuels Third Quarter Results",
+    "time": "2026-04-29T00:00:00Z",
+    "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q3/press-release-webcast",
+    "source": "Microsoft Investor Relations",
+    "keywords": [
+      "microsoft-azure",
+      "cloud-ai",
+      "agentic-computing",
+      "revenue-growth",
+      "enterprise-ai"
+    ],
+    "content_hash": "5f16e8e8031e"
+  },
+  {
+    "index": 24,
+    "title": "Ramp's Sheets AI Exfiltrates Financials",
+    "time": "2026-04-29T18:49:00Z",
+    "url": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials",
+    "source": "PromptArmor",
+    "keywords": [
+      "prompt-injection",
+      "ai-agent",
+      "data-exfiltration",
+      "spreadsheet-ai",
+      "financial-security"
+    ],
+    "content_hash": "c6b3be5368c6"
+  },
+  {
+    "index": 25,
+    "title": "앤트로픽, '클로드 코드' 비용 추청치 두배로 올려…사용량 기반 요금제 예고",
+    "time": "2026-04-29T09:58:00Z",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=209929",
+    "source": "AI타임스",
+    "keywords": [
+      "claude-code",
+      "anthropic",
+      "usage-based-pricing",
+      "ai-developer-tools",
+      "subscription"
+    ],
+    "content_hash": "fcbbe3096ec7"
+  },
+  {
+    "index": 26,
+    "title": "알파고 10주년, 구글 '에이전틱AI' 사활…韓 기업 '협력 돈 될까' 눈치게임(종합)",
+    "time": "2026-04-29T19:00:00Z",
+    "url": "https://www.ddaily.co.kr/page/view/2026042916183914725",
+    "source": "디지털데일리",
+    "keywords": [
+      "agentic-ai",
+      "google-deepmind",
+      "gemini",
+      "korea-partnership",
+      "robotics"
+    ],
+    "content_hash": "32a600615d02"
+  },
+  {
+    "index": 27,
+    "title": "'연봉 상한까지 없앤다'…靑, 'AI 전문가 공무원' 양성한다",
+    "time": "2026-04-29T06:27:00Z",
+    "url": "https://www.etnews.com/20260429000398",
+    "source": "전자신문",
+    "keywords": [
+      "ai-government",
+      "public-sector-ai",
+      "ai-talent",
+      "civil-servant",
+      "korea-policy"
+    ],
+    "content_hash": "ddc7eddd66a5"
   }
 ]

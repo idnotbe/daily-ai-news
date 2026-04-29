@@ -2,11 +2,16 @@
 
 AX 컨설턴트를 위한 일일 AI 뉴스 다이제스트. 자동 갱신.
 
-**총 누적**: 22건 | **최신 업데이트**: 2026-04-29 19:19 UTC
+**총 누적**: 27건 | **최신 업데이트**: 2026-04-29 20:23 UTC
 
 ## 최근 10일
 
 ### 2026-04-29
+- #27 ['연봉 상한까지 없앤다'…靑, 'AI 전문가 공무원' 양성한다](digests/2026-04-29/2026-04-29T2023Z.md) — ai-government, public-sector-ai, ai-talent, civil-servant, korea-policy
+- #26 [알파고 10주년, 구글 '에이전틱AI' 사활…韓 기업 '협력 돈 될까' 눈치게임(종합)](digests/2026-04-29/2026-04-29T2023Z.md) — agentic-ai, google-deepmind, gemini, korea-partnership, robotics
+- #25 [앤트로픽, '클로드 코드' 비용 추청치 두배로 올려…사용량 기반 요금제 예고](digests/2026-04-29/2026-04-29T2023Z.md) — claude-code, anthropic, usage-based-pricing, ai-developer-tools, subscription
+- #24 [Ramp's Sheets AI Exfiltrates Financials](digests/2026-04-29/2026-04-29T2023Z.md) — prompt-injection, ai-agent, data-exfiltration, spreadsheet-ai, financial-security
+- #23 [Microsoft Cloud and AI Strength Fuels Third Quarter Results](digests/2026-04-29/2026-04-29T2023Z.md) — microsoft-azure, cloud-ai, agentic-computing, revenue-growth, enterprise-ai
 - #22 [China builds exascale supercomputer using only domestic CPUs — no GPUs](digests/2026-04-29/2026-04-29T1919Z.md) — china-ai, chip-independence, exascale, hpc, supply-chain
 - #21 [Parallel Web Systems hits $2B valuation five months after its last big raise](digests/2026-04-29/2026-04-29T1919Z.md) — ai-agent-infrastructure, web-search-api, series-b, valuation-growth, agent-tooling
 - #20 [Evaluating whether AI models would sabotage AI safety research](digests/2026-04-29/2026-04-29T1919Z.md) — ai-safety, frontier-models, deception, research-agent, ai-governance
