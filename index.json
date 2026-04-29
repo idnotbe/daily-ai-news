@@ -5,7 +5,13 @@
     "time": "2026-04-28T12:00:00Z",
     "url": "https://openai.com/index/next-phase-of-microsoft-partnership/",
     "source": "OpenAI Official",
-    "keywords": ["openai", "microsoft", "multi-cloud", "aws", "azure-exclusivity"],
+    "keywords": [
+      "openai",
+      "microsoft",
+      "multi-cloud",
+      "aws",
+      "azure-exclusivity"
+    ],
     "content_hash": "622a6d001466"
   },
   {
@@ -14,7 +20,13 @@
     "time": "2026-04-28T20:00:00Z",
     "url": "https://www.coloradopolitics.com/2026/04/28/colorados-unprecedented-ai-law-cant-be-enforced-yet-judge-rules/",
     "source": "Colorado Politics (AI Weekly)",
-    "keywords": ["ai-regulation", "bias-law", "colorado", "enforcement-stay", "ai-governance"],
+    "keywords": [
+      "ai-regulation",
+      "bias-law",
+      "colorado",
+      "enforcement-stay",
+      "ai-governance"
+    ],
     "content_hash": "bb269e56de53"
   },
   {
@@ -23,7 +35,13 @@
     "time": "2026-04-29T08:00:00Z",
     "url": "https://openrouter.ai/announcements/opus-47-tokenizer-analysis",
     "source": "OpenRouter (tokenizer analysis) + Yahoo Finance (Claude Code cost)",
-    "keywords": ["anthropic", "claude-code", "cost", "tokenizer", "enterprise-budget"],
+    "keywords": [
+      "anthropic",
+      "claude-code",
+      "cost",
+      "tokenizer",
+      "enterprise-budget"
+    ],
     "content_hash": "3b691a8b82bd"
   },
   {
@@ -32,7 +50,13 @@
     "time": "2026-04-28T09:00:00Z",
     "url": "https://thenextweb.com/news/deepseek-v4-pro-price-cut-75-percent",
     "source": "The Next Web (TLDR AI)",
-    "keywords": ["deepseek", "price-cut", "vendor-selection", "geopolitics", "cost-optimization"],
+    "keywords": [
+      "deepseek",
+      "price-cut",
+      "vendor-selection",
+      "geopolitics",
+      "cost-optimization"
+    ],
     "content_hash": "f3264a9feac2"
   },
   {
@@ -41,7 +65,13 @@
     "time": "2026-04-28T12:00:00Z",
     "url": "https://www.cnbc.com/2026/04/28/openai-reportedly-missed-revenue-targets-shares-of-oracle-and-these-chip-stocks-are-falling.html",
     "source": "CNBC (corroborating WSJ reporting)",
-    "keywords": ["openai", "revenue-miss", "ipo", "compute-spending", "vendor-risk"],
+    "keywords": [
+      "openai",
+      "revenue-miss",
+      "ipo",
+      "compute-spending",
+      "vendor-risk"
+    ],
     "content_hash": "2f155870481d"
   },
   {
@@ -50,7 +80,13 @@
     "time": "2026-04-28T00:00:00Z",
     "url": "https://openai.com/index/openai-on-aws/",
     "source": "OpenAI Official",
-    "keywords": ["openai-aws", "amazon-bedrock", "codex", "managed-agents", "cloud-partnership"],
+    "keywords": [
+      "openai-aws",
+      "amazon-bedrock",
+      "codex",
+      "managed-agents",
+      "cloud-partnership"
+    ],
     "content_hash": "5add86c312ac"
   },
   {
@@ -59,7 +95,13 @@
     "time": "2026-04-28T00:00:00Z",
     "url": "https://openai.com/index/introducing-gpt-5-5/",
     "source": "OpenAI Official (via Ben's Bites)",
-    "keywords": ["gpt-5.5", "openai", "llm-pricing", "token-efficiency", "model-release"],
+    "keywords": [
+      "gpt-5.5",
+      "openai",
+      "llm-pricing",
+      "token-efficiency",
+      "model-release"
+    ],
     "content_hash": "8410bcca881e"
   },
   {
@@ -68,7 +110,13 @@
     "time": "2026-04-28T00:00:00Z",
     "url": "https://www.theinformation.com/articles/google-signs-classified-ai-deal-pentagon-amid-employee-opposition",
     "source": "The Information (via Horizon Daily)",
-    "keywords": ["defense-ai", "google", "pentagon", "ai-ethics", "enterprise-governance"],
+    "keywords": [
+      "defense-ai",
+      "google",
+      "pentagon",
+      "ai-ethics",
+      "enterprise-governance"
+    ],
     "content_hash": "eee04bd70db0"
   },
   {
@@ -77,7 +125,13 @@
     "time": "2026-04-28T00:00:00Z",
     "url": "https://www.anthropic.com/engineering/april-23-postmortem/",
     "source": "Anthropic Official (via Ben's Bites)",
-    "keywords": ["claude", "postmortem", "thinking-mode", "system-prompt", "response-quality"],
+    "keywords": [
+      "claude",
+      "postmortem",
+      "thinking-mode",
+      "system-prompt",
+      "response-quality"
+    ],
     "content_hash": "e0a8dcf53571"
   },
   {
@@ -86,7 +140,88 @@
     "time": "2026-04-27T00:00:00Z",
     "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
     "source": "Google DeepMind Official",
-    "keywords": ["google-deepmind", "ai-campus", "alphafold", "ai-safety", "k-moonshot"],
+    "keywords": [
+      "google-deepmind",
+      "ai-campus",
+      "alphafold",
+      "ai-safety",
+      "k-moonshot"
+    ],
     "content_hash": "e46ca08a1fa6"
+  },
+  {
+    "index": 11,
+    "title": "Google Signs Classified Pentagon AI Deal, Expanding DoD Access Despite Employee Opposition",
+    "time": "2026-04-28T00:00:00Z",
+    "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+    "source": "TechCrunch",
+    "keywords": [
+      "defense-ai",
+      "google",
+      "ai-ethics",
+      "government-contract",
+      "military-ai"
+    ],
+    "content_hash": "6b5b6306085b"
+  },
+  {
+    "index": 12,
+    "title": "OpenAI Misses Key Revenue, User Targets in High-Stakes Sprint Toward IPO",
+    "time": "2026-04-28T00:00:00Z",
+    "url": "https://www.wsj.com/tech/ai/openai-misses-key-revenue-user-targets-in-high-stakes-sprint-toward-ipo-94a95273",
+    "source": "Wall Street Journal",
+    "keywords": [
+      "openai",
+      "ipo",
+      "revenue-miss",
+      "data-center",
+      "user-growth"
+    ],
+    "content_hash": "aa172c36ba58"
+  },
+  {
+    "index": 13,
+    "title": "Live updates from Elon Musk and Sam Altman's court battle over the future of OpenAI",
+    "time": "2026-04-29T00:00:00Z",
+    "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+    "source": "The Verge",
+    "keywords": [
+      "openai",
+      "lawsuit",
+      "ai-governance",
+      "nonprofit-conversion",
+      "vendor-risk"
+    ],
+    "content_hash": "8650e7008e0e"
+  },
+  {
+    "index": 14,
+    "title": "Former Google DeepMind Researcher's AI Startup Raises Record $1.1 Billion Seed Funding",
+    "time": "2026-04-27T00:00:00Z",
+    "url": "https://www.cnbc.com/2026/04/27/deepmind-ineffable-intelligence-record-seed-funding-nvidia-google.html",
+    "source": "CNBC",
+    "keywords": [
+      "superintelligence",
+      "seed-funding",
+      "deepmind",
+      "reinforcement-learning",
+      "nvidia"
+    ],
+    "content_hash": "0851ef28d957"
+  },
+  {
+    "index": 15,
+    "title": "Friendly chatbots make more mistakes",
+    "time": "2026-04-29T00:00:00Z",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/920341/friendly-chatbots-make-more-mistakes",
+    "source": "The Verge",
+    "keywords": [
+      "chatbot-persona",
+      "accuracy",
+      "nature-study",
+      "sycophancy",
+      "llm-alignment"
+    ],
+    "content_hash": "f9d870903de9"
   }
 ]
