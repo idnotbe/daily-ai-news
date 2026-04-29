@@ -508,5 +508,65 @@
       "cost-management"
     ],
     "content_hash": "a3804bc8bc1a"
+  },
+  {
+    "index": 35,
+    "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
+    "time": "2026-04-29T23:02:00Z",
+    "url": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
+    "source": "TechCrunch AI",
+    "keywords": [
+      "copilot",
+      "enterprise-ai",
+      "adoption-metrics",
+      "m365",
+      "workplace-productivity"
+    ],
+    "content_hash": "23864622c77f"
+  },
+  {
+    "index": 36,
+    "title": "Google Cloud surpasses $20B but says growth was capacity-constrained",
+    "time": "2026-04-29T22:20:00Z",
+    "url": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
+    "source": "TechCrunch AI",
+    "keywords": [
+      "google-cloud",
+      "ai-infrastructure",
+      "compute-scarcity",
+      "gemini-enterprise",
+      "enterprise-ai-demand"
+    ],
+    "content_hash": "846d02741d4b"
+  },
+  {
+    "index": 37,
+    "title": "10년 만에 이세돌 만난 하사비스 \"10년 뒤 AGI로 질병 정복\"",
+    "time": "2026-04-29T05:39:00Z",
+    "url": "https://www.etnews.com/20260429000360",
+    "source": "전자신문",
+    "keywords": [
+      "agi-timeline",
+      "deepmind",
+      "demis-hassabis",
+      "korea-ai",
+      "alphago"
+    ],
+    "content_hash": "59da82d9eaf3"
+  },
+  {
+    "index": 38,
+    "title": "Google breaks ground on $15B AI hub in Visakhapatnam, India — largest single FDI in Indian history",
+    "time": "2026-04-29T04:00:00Z",
+    "url": "https://blog.google/intl/en-in/company-news/our-first-ai-hub-in-india-powered-by-a-15-billion-investment/",
+    "source": "Google Blog",
+    "keywords": [
+      "google-cloud",
+      "ai-infrastructure",
+      "india",
+      "apac-expansion",
+      "data-center"
+    ],
+    "content_hash": "4224a01c019a"
   }
 ]
