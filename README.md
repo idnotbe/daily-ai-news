@@ -2,11 +2,16 @@
 
 AX 컨설턴트를 위한 일일 AI 뉴스 다이제스트. 자동 갱신.
 
-**총 누적**: 29건 | **최신 업데이트**: 2026-04-29 21:58 UTC
+**총 누적**: 34건 | **최신 업데이트**: 2026-04-29 22:20 UTC
 
 ## 최근 10일
 
 ### 2026-04-29
+- #34 [HERMES.md in commit messages causes requests to route to extra usage billing](digests/2026-04-29/2026-04-29T2220Z.md) — claude-code, billing-bug, git-integration, api-routing, cost-management
+- #33 [Mistral AI launches Workflows, a Temporal-powered orchestration engine already running millions of daily executions](digests/2026-04-29/2026-04-29T2220Z.md) — mistral-ai, workflow-orchestration, agentic-ai, enterprise-ai, temporal
+- #32 [Anthropic Managed Agents Now Supports Memory in Public Beta](digests/2026-04-29/2026-04-29T2220Z.md) — managed-agents, memory, anthropic, enterprise-ai, agentic-api
+- #31 [NVIDIA Launches Nemotron 3 Nano Omni Model, Unifying Vision, Audio and Language for up to 9x More Efficient AI Agents](digests/2026-04-29/2026-04-29T2220Z.md) — multimodal-ai, omni-model, ai-agents, mixture-of-experts, open-source
+- #30 [Goldman Staff in Hong Kong Lose Access to Anthropic's Claude](digests/2026-04-29/2026-04-29T2220Z.md) — claude, enterprise-governance, geopolitics, hong-kong, vendor-policy
 - #29 [An Interview with OpenAI CEO Sam Altman and AWS CEO Matt Garman About Bedrock Managed Agents](digests/2026-04-29/2026-04-29T2158Z.md) — openai, aws-bedrock, multi-cloud, microsoft-openai, managed-agents
 - #28 [Google DeepMind announces Decoupled DiLoCo: self-healing distributed AI training architecture](digests/2026-04-29/2026-04-29T2158Z.md) — decoupled-diloco, distributed-training, fault-tolerance, google-deepmind, large-model-training
 - #27 ['연봉 상한까지 없앤다'…靑, 'AI 전문가 공무원' 양성한다](digests/2026-04-29/2026-04-29T2023Z.md) — ai-government, public-sector-ai, ai-talent, civil-servant, korea-policy

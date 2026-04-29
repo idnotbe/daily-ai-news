@@ -433,5 +433,80 @@
       "managed-agents"
     ],
     "content_hash": "8494e2cc0a97"
+  },
+  {
+    "index": 30,
+    "title": "Goldman Staff in Hong Kong Lose Access to Anthropic's Claude",
+    "time": "2026-04-29T00:00:00Z",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-29/goldman-staff-in-hong-kong-lose-access-to-anthropic-s-claude",
+    "source": "Bloomberg",
+    "keywords": [
+      "claude",
+      "enterprise-governance",
+      "geopolitics",
+      "hong-kong",
+      "vendor-policy"
+    ],
+    "content_hash": "1c54e89d74a7"
+  },
+  {
+    "index": 31,
+    "title": "NVIDIA Launches Nemotron 3 Nano Omni Model, Unifying Vision, Audio and Language for up to 9x More Efficient AI Agents",
+    "time": "2026-04-28T00:00:00Z",
+    "url": "https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/",
+    "source": "NVIDIA",
+    "keywords": [
+      "multimodal-ai",
+      "omni-model",
+      "ai-agents",
+      "mixture-of-experts",
+      "open-source"
+    ],
+    "content_hash": "bb96039d30b9"
+  },
+  {
+    "index": 32,
+    "title": "Anthropic Managed Agents Now Supports Memory in Public Beta",
+    "time": "2026-04-28T00:00:00Z",
+    "url": "https://x.com/claudeai/status/2047421844311949513",
+    "source": "Anthropic (X)",
+    "keywords": [
+      "managed-agents",
+      "memory",
+      "anthropic",
+      "enterprise-ai",
+      "agentic-api"
+    ],
+    "content_hash": "c7e5afaf7f9c"
+  },
+  {
+    "index": 33,
+    "title": "Mistral AI launches Workflows, a Temporal-powered orchestration engine already running millions of daily executions",
+    "time": "2026-04-28T16:30:00Z",
+    "url": "https://venturebeat.com/technology/mistral-ai-launches-workflows-a-temporal-powered-orchestration-engine-already-running-millions-of-daily-executions",
+    "source": "VentureBeat AI",
+    "keywords": [
+      "mistral-ai",
+      "workflow-orchestration",
+      "agentic-ai",
+      "enterprise-ai",
+      "temporal"
+    ],
+    "content_hash": "8a7a5611d1d3"
+  },
+  {
+    "index": 34,
+    "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
+    "time": "2026-04-29T00:00:00Z",
+    "url": "https://github.com/anthropics/claude-code/issues/53262",
+    "source": "Anthropic (GitHub Issues)",
+    "keywords": [
+      "claude-code",
+      "billing-bug",
+      "git-integration",
+      "api-routing",
+      "cost-management"
+    ],
+    "content_hash": "a3804bc8bc1a"
   }
 ]
