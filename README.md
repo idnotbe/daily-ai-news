@@ -2,14 +2,23 @@
 
 AX 컨설턴트를 위한 일일 AI 뉴스 다이제스트. 자동 갱신.
 
-**총 누적**: 38건 | **최종 업데이트**: 2026-04-29 23:13 UTC
+**총 누적**: 43건 | **최종 업데이트**: 2026-05-01 12:52 UTC
 
 ## 최근 10일
+
+### 2026-05-01
+- #40 [After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber too](digests/2026-05-01/2026-05-01T1252Z.md) — ai-governance, cyber-ai, frontier-models, access-control, mythos-cyber
+
+### 2026-04-30
+- #43 [Stripe introduces Link, a digital wallet that autonomous AI agents can use, too](digests/2026-05-01/2026-05-01T1252Z.md) — agentic-commerce, stripe-link, ai-payments, autonomous-agent, fintech
+- #42 [Elon Musk testifies that xAI trained Grok on OpenAI models](digests/2026-05-01/2026-05-01T1252Z.md) [2소스] — model-distillation, xai-grok, openai-lawsuit, ip-risk, ai-legal
+- #41 [Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks](digests/2026-05-01/2026-05-01T1252Z.md) [2소스] — anthropic, valuation, ai-investment, venture-round, ai-market
+- #39 [Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library](digests/2026-05-01/2026-05-01T1252Z.md) [2소스] — supply-chain-attack, pytorch-lightning, claude-code, ai-dev-security, malicious-dependency
 
 ### 2026-04-29
 - #38 [Google breaks ground on $15B AI hub in Visakhapatnam, India — largest single FDI in Indian history](digests/2026-04-29/2026-04-29T2313Z.md) — google-cloud, ai-infrastructure, india, apac-expansion, data-center
 - #37 [10년 만에 이세돌 만난 하사비스 "10년 뒤 AGI로 질병 정복"](digests/2026-04-29/2026-04-29T2313Z.md) — agi-timeline, deepmind, demis-hassabis, korea-ai, alphago
-- #36 [Google Cloud surpasses $20B but says growth was capacity-constrained](digests/2026-04-29/2026-04-29T2313Z.md) — google-cloud, ai-infrastructure, compute-scarcity, gemini-enterprise, enterprise-ai-demand
+- #36 [Google Cloud surpasses $20B but says growth was capacity-constrained](digests/2026-04-29/2026-04-29T2313Z.md) [2소스] — google-cloud, ai-infrastructure, compute-scarcity, gemini-enterprise, enterprise-ai-demand
 - #35 [Microsoft says it has over 20M paid Copilot users, and they really are using it](digests/2026-04-29/2026-04-29T2313Z.md) — copilot, enterprise-ai, adoption-metrics, m365, workplace-productivity
 - #34 [HERMES.md in commit messages causes requests to route to extra usage billing](digests/2026-04-29/) — claude-code, billing-bug, git-integration, api-routing, cost-management
 - #30 [Goldman Staff in Hong Kong Lose Access to Anthropic's Claude](digests/2026-04-29/) — claude, enterprise-governance, geopolitics, hong-kong, vendor-policy
