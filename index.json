@@ -540,7 +540,10 @@
     "content_hash": "846d02741d4b",
     "source_count": 2,
     "secondary_sources": [
-      {"source": "AI타임스", "url": "https://www.aitimes.com/news/articleView.html?idxno=210004"}
+      {
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=210004"
+      }
     ]
   },
   {
@@ -589,7 +592,10 @@
     "content_hash": "fa63cd47a755",
     "source_count": 2,
     "secondary_sources": [
-      {"source": "smol.ai", "url": "https://news.smol.ai/issues/26-04-30-not-much"}
+      {
+        "source": "smol.ai",
+        "url": "https://news.smol.ai/issues/26-04-30-not-much"
+      }
     ]
   },
   {
@@ -625,7 +631,10 @@
     "content_hash": "461e9d2af1ad",
     "source_count": 2,
     "secondary_sources": [
-      {"source": "AI타임스", "url": "https://www.aitimes.com/news/articleView.html?idxno=210006"}
+      {
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=210006"
+      }
     ]
   },
   {
@@ -644,7 +653,10 @@
     "content_hash": "cd34c6e2d586",
     "source_count": 2,
     "secondary_sources": [
-      {"source": "AI타임스", "url": "https://www.aitimes.com/news/articleView.html?idxno=210012"}
+      {
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=210012"
+      }
     ]
   },
   {
@@ -661,6 +673,91 @@
       "fintech"
     ],
     "content_hash": "3d72d5e83bad",
+    "source_count": 1,
+    "secondary_sources": []
+  },
+  {
+    "index": 44,
+    "title": "백악관, 앤트로픽의 '미소스' 접근 70여곳 확대 계획에 반대",
+    "time": "2026-05-01T04:28:00Z",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210002",
+    "source": "AI타임스",
+    "keywords": [
+      "anthropic",
+      "missos",
+      "white-house",
+      "ai-security",
+      "access-control"
+    ],
+    "content_hash": "2aa4a649e1b8",
+    "source_count": 1,
+    "secondary_sources": []
+  },
+  {
+    "index": 45,
+    "title": "오픈AI, 컴퓨팅 용량 10GW 돌파...예정보다 3년 앞서 목표 도달",
+    "time": "2026-05-01T04:55:00Z",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210003",
+    "source": "AI타임스",
+    "keywords": [
+      "openai",
+      "computing-capacity",
+      "stargate",
+      "data-center",
+      "gpu"
+    ],
+    "content_hash": "80fc9792ce34",
+    "source_count": 1,
+    "secondary_sources": []
+  },
+  {
+    "index": 46,
+    "title": "애플, '맥 미니' 수요 급증에 놀라...\"에이전트 워크로드 기대 이상\"",
+    "time": "2026-05-01T11:10:00Z",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210014",
+    "source": "AI타임스",
+    "keywords": [
+      "apple",
+      "mac-mini",
+      "ai-workload",
+      "local-ai",
+      "developer-demand"
+    ],
+    "content_hash": "1ff0b78cf2b9",
+    "source_count": 1,
+    "secondary_sources": []
+  },
+  {
+    "index": 47,
+    "title": "Apple accidentally left Claude.md files in Apple Support app",
+    "time": "2026-04-30T23:43:00Z",
+    "url": "https://xcancel.com/aaronp613/status/2049986504617820551",
+    "source": "Hacker News",
+    "keywords": [
+      "apple",
+      "claude-code",
+      "claude-md",
+      "app-store",
+      "development-tools"
+    ],
+    "content_hash": "24a7b5bd62a4",
+    "source_count": 1,
+    "secondary_sources": []
+  },
+  {
+    "index": 48,
+    "title": "\"GPT-5.5 사이버보안 능력, 미소스와 동등...타 모델도 곧 따라올 것\"",
+    "time": "2026-05-01T12:22:00Z",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210015",
+    "source": "AI타임스",
+    "keywords": [
+      "gpt-5.5",
+      "cybersecurity",
+      "aisi",
+      "claude",
+      "penetration-testing"
+    ],
+    "content_hash": "a46e5ffcd538",
     "source_count": 1,
     "secondary_sources": []
   }
