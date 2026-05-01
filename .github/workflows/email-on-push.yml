@@ -1,0 +1,47 @@
+name: Email new digest on push
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'digests/**/*.md'
+
+jobs:
+  email:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Find newly added digest file
+        id: find
+        run: |
+          added=$(git diff --name-only --diff-filter=A HEAD~1 HEAD -- 'digests/**/*.md' || true)
+          if [ -z "$added" ]; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            echo "No new digest files in this push, skipping email."
+            exit 0
+          fi
+          first=$(echo "$added" | head -n1)
+          echo "path=$first" >> "$GITHUB_OUTPUT"
+          subject=$(grep -m1 '^# ' "$first" | sed 's/^# //' || echo "Daily AI News")
+          echo "subject=$subject" >> "$GITHUB_OUTPUT"
+
+      - name: Send email via Resend
+        if: steps.find.outputs.skip != 'true'
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          DIGEST_PATH: ${{ steps.find.outputs.path }}
+          DIGEST_SUBJECT: ${{ steps.find.outputs.subject }}
+        run: |
+          content=$(cat "$DIGEST_PATH")
+          payload=$(jq -n \
+            --arg from "Daily AI News <onboarding@resend.dev>" \
+            --arg to "idnotbe@gmail.com" \
+            --arg subject "[Daily AI News] $DIGEST_SUBJECT" \
+            --arg text "$content" \
+            '{from:$from, to:[$to], subject:$subject, text:$text}')
+          curl -sSf -X POST https://api.resend.com/emails \
+            -H "Authorization: Bearer $RESEND_API_KEY" \
+            -H "Content-Type: application/json" \
+            -d "$payload"
