@@ -2,12 +2,16 @@
 
 AX 컨설턴트를 위한 일일 AI 뉴스 다이제스트. 자동 갱신.
 
-**총 누적**: 48건 | **최종 업데이트**: 2026-05-01 14:43 UTC
+**총 누적**: 50건 | **최종 업데이트**: 2026-05-02 10:52 UTC
 
 ## 최근 10일
 
+### 2026-05-02
+- #50 [Meta buys robotics startup to bolster its humanoid AI ambitions](digests/2026-05-02/2026-05-02T1052Z.md) [2소스] — meta, humanoid-robotics, ari, superintelligence-labs, agi
+- #49 [Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks](digests/2026-05-02/2026-05-02T1052Z.md) [2소스] — defense-ai, classified-networks, pentagon, nvidia, aws
+
 ### 2026-05-01
-- #48 ["GPT-5.5 사이버보안 능력, 미소스와 동등...타 모델도 곧 따라올 것"](digests/2026-05-01/2026-05-01T1443Z.md) — gpt-5.5, cybersecurity, aisi, claude, penetration-testing
+- #48 ["GPT-5.5 사이버보안 능력, 미소스와 동등...타 모델도 곧 따라올 것"](digests/2026-05-01/2026-05-01T1443Z.md) [2소스] — gpt-5.5, cybersecurity, aisi, claude, penetration-testing
 - #46 [애플, '맥 미니' 수요 급증에 놀라..."에이전트 워크로드 기대 이상"](digests/2026-05-01/2026-05-01T1443Z.md) — apple, mac-mini, ai-workload, local-ai, developer-demand
 - #45 [오픈AI, 컴퓨팅 용량 10GW 돌파...예정보다 3년 앞서 목표 도달](digests/2026-05-01/2026-05-01T1443Z.md) — openai, computing-capacity, stargate, data-center, gpu
 - #44 [백악관, 앤트로픽의 '미소스' 접근 70여곳 확대 계획에 반대](digests/2026-05-01/2026-05-01T1443Z.md) — anthropic, missos, white-house, ai-security, access-control

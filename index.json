@@ -758,7 +758,56 @@
       "penetration-testing"
     ],
     "content_hash": "a46e5ffcd538",
-    "source_count": 1,
-    "secondary_sources": []
+    "source_count": 2,
+    "secondary_sources": [
+      {
+        "source": "smol.ai",
+        "url": "https://news.smol.ai/issues/26-05-01-not-much"
+      }
+    ]
+  },
+  {
+    "index": 49,
+    "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+    "time": "2026-05-01T16:02:00Z",
+    "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+    "source": "TechCrunch AI",
+    "keywords": [
+      "defense-ai",
+      "classified-networks",
+      "pentagon",
+      "nvidia",
+      "aws"
+    ],
+    "content_hash": "de204656f12d",
+    "source_count": 2,
+    "secondary_sources": [
+      {
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=210017"
+      }
+    ]
+  },
+  {
+    "index": 50,
+    "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+    "time": "2026-05-01T22:13:00Z",
+    "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+    "source": "TechCrunch AI",
+    "keywords": [
+      "meta",
+      "humanoid-robotics",
+      "ari",
+      "superintelligence-labs",
+      "agi"
+    ],
+    "content_hash": "5ce3cfed3738",
+    "source_count": 2,
+    "secondary_sources": [
+      {
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=210021"
+      }
+    ]
   }
 ]
